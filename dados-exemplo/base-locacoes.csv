@@ -1,0 +1,11 @@
+id_contrato,cliente,status,valor_aluguel,regiao,tempo_locacao
+1,Carlos,Aprovado,2500,Centro,12
+2,Ana,Ativo,3200,Zona Sul,18
+3,Marcos,Inadimplente,1800,Zona Leste,6
+4,Julia,Ativo,4100,Zona Oeste,24
+5,Fernanda,Aprovado,2900,Centro,10
+6,Rafael,Inadimplente,2300,Zona Norte,5
+7,Patricia,Ativo,3700,Zona Sul,15
+8,Lucas,Aprovado,2800,Centro,9
+9,Amanda,Ativo,4500,Zona Oeste,30
+10,Bruno,Inadimplente,2100,Zona Norte,4
